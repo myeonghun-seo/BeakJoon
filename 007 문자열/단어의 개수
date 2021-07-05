@@ -10,8 +10,7 @@ public class Main {
         
 		StringTokenizer st = new StringTokenizer(S," ");
         
-		System.out.println(st.countTokens());	
-		
+		System.out.println(st.countTokens());		
 		
 	}
     
